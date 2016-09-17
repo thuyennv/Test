@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"na",
+				"name	Attr"
+			],
+			[
+				"txtHo",
+				"txtHoTen"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"re",
+				"Request"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"img",
+				"img_name"
+			],
+			[
+				"Reques",
+				"Requests"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"txt",
+				"txtMonHoc"
+			],
+			[
+				"tx",
+				"txtGiangVien"
+			],
+			[
+				"ta",
+				"tarsenal"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"see",
+				"Seeder"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"time",
+				"timestamps"
+			],
+			[
+				"Sc",
+				"Schema"
+			],
+			[
+				"S",
+				"Schema"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"bo",
+				"border	Attr"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sq",
+				"sql"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mysqls",
+				"mysql_select_db"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 107.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/shoppingwebV1.0/resources/views/admin/category/add.blade.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/Category.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/resources/views/admin/category/list.blade.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/Http/Requests/CateRequest.php",
+		"/D/Project/sharecode/tour/templates/admincp/adminv1/index.html",
+		"/D/Project/sharecode/tour/index.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/config/database.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/config/app.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/.env.example",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/Http/routes.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/User.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/ProductImage.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/Product.php",
+		"/C/Users/Thuyên/Desktop/add.html",
+		"/C/Users/Thuyên/Desktop/add.html.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/routes.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/restful/list.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/restful/add.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/restful/edit.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/HocSinh.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_05_072005_create_hoc_sinhs_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Controllers/HocSinhController.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/khoapham.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Requests/LoginRequest.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/layout.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/layout/sub/layout.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/User.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Requests/RegisterRequest.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/TThanhVien.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Requests/ThanhVienRequest.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Controllers/ThanhVienController.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/login/index.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Requests/arsenalrequest.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_03_054711_create_t_thanh_viens_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/login/login.html",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_03_053342_create_thanh_viens_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/ThanhVien.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_03_052925_create_thanh_viens_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_03_045937_create_thanh_viens_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/response/demo.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/config/app.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Providers/MacroServiceProvider.php",
+		"/C/xampp/htdocs/framework/laravel-master/public/download/test-download.rar",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Controllers/KhoaPhamController.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/tarsenal.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/form/dangky.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_01_234531_create_tarsenals_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_02_233635_insertcolumntarsenal.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Requests/Request.php",
+		"/D/Project/wp-admin/index.php",
+		"/D/Project/xmlrpc.php",
+		"/D/Project/index.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_01_232853_create_arsenal_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_03_01_232717_create_arsenal_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_25_045946_create_thuyenars_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Product.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Colors.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Cars.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/resources/views/admin/product/add.blade.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/resources/views/admin/master.blade.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/app/Http/Controllers/ProductController.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/resources/views/admin/product/list.blade.php",
+		"/C/xampp/htdocs/shoppingwebV1.0/database/migrations/2016_02_27_153817_create_product_images_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/composer.phar",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_080004_create_car_colors_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Car_colors.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Images.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_080020_create_colors_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_075924_create_cars_table.php",
+		"/C/Users/Thuyên/Desktop/2016_02_27_072539_create_colors_table.php",
+		"/C/Users/Thuyên/Desktop/2016_02_27_072605_create_car_colors_table.php",
+		"/C/Users/Thuyên/Desktop/2016_02_27_072509_create_cars_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_072605_create_car_colors_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_072539_create_colors_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_072509_create_cars_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_27_064712_create_images_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_26_074957_create_products_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/database/migrations/2016_02_25_050744_create_mrthuyen_table.php",
+		"/C/xampp/htdocs/framework/laravel-master/public/template/css/mystyle.css",
+		"/C/xampp/htdocs/framework/laravel-master/config/database.php",
+		"/C/xampp/htdocs/framework/laravel-master/.env.example",
+		"/C/xampp/htdocs/framework/laravel-master/composer.json",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/master.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/marquee.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/marquee.blade",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/sub.blade.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/layout.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/sub.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/master.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/thongtin - Copy (2).php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/thongtin - Copy.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/views/thongtin.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/layout/sub/view.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/layout/sub/view - Copy.php",
+		"/C/xampp/htdocs/framework/laravel-master/app/Http/Controllers/WelcomeController.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/view.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/view",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/thongtin.php",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/thongtin",
+		"/C/xampp/htdocs/framework/laravel-master/resources/views/thongtin.txt",
+		"/C/Users/Thuyên/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Thuyên/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Thuyên/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Thuyên/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/framework/laravel-master/server.php",
+		"/C/xampp/htdocs/user/index.php",
+		"/C/xampp/htdocs/framework/laravel-master/index.php",
+		"/C/xampp/htdocs/dangnhap/index.php",
+		"/C/xampp/htdocs/dangnhap/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"s"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "functions.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
